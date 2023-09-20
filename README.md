@@ -1,0 +1,2 @@
+[objets] : books
+[inventaire] : librairie
